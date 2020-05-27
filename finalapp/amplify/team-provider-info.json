@@ -1,0 +1,15 @@
+{
+    "reactback": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-finalapp-reactback-154937-authRole",
+            "UnauthRoleArn": "arn:aws:iam::201751494828:role/amplify-finalapp-reactback-154937-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::201751494828:role/amplify-finalapp-reactback-154937-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "amplify-finalapp-reactback-154937-deployment",
+            "UnauthRoleName": "amplify-finalapp-reactback-154937-unauthRole",
+            "StackName": "amplify-finalapp-reactback-154937",
+            "StackId": "arn:aws:cloudformation:us-east-1:201751494828:stack/amplify-finalapp-reactback-154937/33958c70-a053-11ea-a549-0aece6d977c1",
+            "AmplifyAppId": "doc7ex790muww"
+        }
+    }
+}
